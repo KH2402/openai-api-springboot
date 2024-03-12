@@ -1,0 +1,6 @@
+com\OpenaiSpring\OpenaiSpring\OpenaiSpringApplication.class
+com\OpenaiSpring\OpenaiSpring\models\ChatCompletionRequest.class
+com\OpenaiSpring\OpenaiSpring\models\ChatCompletionResponse.class
+com\OpenaiSpring\OpenaiSpring\controller\MainController.class
+com\OpenaiSpring\OpenaiSpring\models\ChatMessage.class
+com\OpenaiSpring\OpenaiSpring\models\ChatCompletionResponse$Choice.class
